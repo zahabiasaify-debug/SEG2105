@@ -3,3 +3,5 @@ Ham
 Tomato
 Onion
 Pepper
+pineapple
+garlic
